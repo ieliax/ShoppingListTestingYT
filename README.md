@@ -9,6 +9,7 @@ Test a Room
 @RunWith(AndroidJUnit4::class)
 
                 /* SmallTest*/    /* MediumTest*/   /* LargeTest*/
+ /*               
 database              no         localhost only         yes
 networ access         no              yes               yes
 file access           no              yes               yes
@@ -16,7 +17,7 @@ external access       no          discourage            yes
 multiple thread       no              yes               yes
 sleep statement       no              yes               yes
 system property       no              yes               yes
-
+*/
 //alcamce de los test
 @SmallTest
 
